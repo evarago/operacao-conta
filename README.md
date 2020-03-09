@@ -1,23 +1,34 @@
-API GraphQL - Exemplo usando ASP.NET Core, Entity Framework Core, TDD, DDD
-
 # API GraphQL ASPNetCore 
 
 Principais abordagens
 
- GraphQL - Linguagem de consulta criada pelo Facebook em 2012, alternativa para arquiteturas REST \n
- GraphQL queries \n
- GraphQL mutations \n
- 3-Camadas (Api, Core, Data) architecture \n
- DDD (Domain Driven Design) hexagonal architecture \n
- Dependency Inversion (padrão ASP.NET Core IoC container) \n
- In Memory Repository \n
- Entity Framework Repository \n
- EF Migrations \n
- TDD (Unit Tests) \n
- Visual Studio 2017 \n
- Integration Tests \n
- Logs \n
- Docker \n
+ GraphQL - Linguagem de consulta criada pelo Facebook em 2012, alternativa para arquiteturas REST
+ 
+ GraphQL queries
+ 
+ GraphQL mutations
+ 
+ 3-Camadas (Api, Core, Data) architecture
+ 
+ DDD (Domain Driven Design) hexagonal architecture
+ 
+ Dependency Inversion (padrão ASP.NET Core IoC container)
+ 
+ In Memory Repository
+ 
+ Entity Framework Repository
+ 
+ EF Migrations
+ 
+ TDD (Unit Tests)
+ 
+ Visual Studio 2017
+ 
+ Integration Tests
+ 
+ Logs
+ 
+ Docker
 
 
 ## Ambiente de Desenvolvimento
