@@ -1,34 +1,21 @@
 # API GraphQL ASPNetCore 
 
-Principais abordagens
+Principais abordagens:
 
- GraphQL - Linguagem de consulta criada pelo Facebook em 2012, alternativa para arquiteturas REST
- 
- GraphQL queries
- 
- GraphQL mutations
- 
- 3-Camadas (Api, Core, Data) architecture
- 
- DDD (Domain Driven Design) hexagonal architecture
- 
- Dependency Inversion (padrão ASP.NET Core IoC container)
- 
- In Memory Repository
- 
- Entity Framework Repository
- 
- EF Migrations
- 
- TDD (Unit Tests)
- 
- Visual Studio 2017
- 
- Integration Tests
- 
- Logs
- 
- Docker
+- GraphQL - Linguagem de consulta criada pelo Facebook em 2012, alternativa para arquiteturas REST 
+- GraphQL queries
+- GraphQL mutations 
+- 3-Camadas (Api, Core, Data) architecture 
+- DDD (Domain Driven Design) hexagonal architecture 
+- Dependency Inversion (padrão ASP.NET Core IoC container) 
+- In Memory Repository 
+- Entity Framework Repository 
+- EF Migrations 
+- TDD (Unit Tests) 
+- Visual Studio 2017 
+- Integration Tests
+- Logs
+- Docker
 
 
 ## Ambiente de Desenvolvimento
@@ -48,6 +35,8 @@ Ainda não está disponível o "migration"  para criar o banco de dados e inseri
 A API está configurada para executar na porta 5000, se isso entrar em conflito com algum outro serviço no seu computador, você poderá alterá-la no arquivo de xxx.
 
 Para executar no docker, ajustar o arquivo Dockerfile conforme a necessidade.
+
+Todos os fontes do projeto estão na pasta "OperacaoCaixaPrj"
 
 ## Contato
 
