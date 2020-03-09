@@ -23,7 +23,7 @@ namespace OperacaoCaixa.Tests.Unit.Data.Repository
         {
             // Given
             _options = new DbContextOptionsBuilder<OperacaoCaixaContext>()
-                .UseMySql("Server=digital-documento.cluster-c58ihsrye390.us-east-1.rds.amazonaws.com;Database=operacao;Uid=usradmin;Pwd=yo49r8HJ4qT8WsmdvL7V;CharSet=utf8;")
+                .UseMySql("Server=s-east-1.rds.amazonaws.com;Database=operacao;Uid=n;Pwd=dvL7V;CharSet=utf8;")
                 .Options;
 
             _operacaoCaixaContext = new OperacaoCaixaContext(_options);
