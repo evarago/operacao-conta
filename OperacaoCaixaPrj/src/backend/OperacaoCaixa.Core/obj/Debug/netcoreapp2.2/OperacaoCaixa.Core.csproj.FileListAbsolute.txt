@@ -1,0 +1,9 @@
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Core\bin\Debug\netcoreapp2.2\OperacaoCaixa.Core.deps.json
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Core\bin\Debug\netcoreapp2.2\OperacaoCaixa.Core.dll
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Core\bin\Debug\netcoreapp2.2\OperacaoCaixa.Core.pdb
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Core\obj\Debug\netcoreapp2.2\OperacaoCaixa.Core.csproj.CoreCompileInputs.cache
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Core\obj\Debug\netcoreapp2.2\OperacaoCaixa.Core.AssemblyInfoInputs.cache
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Core\obj\Debug\netcoreapp2.2\OperacaoCaixa.Core.AssemblyInfo.cs
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Core\obj\Debug\netcoreapp2.2\OperacaoCaixa.Core.dll
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Core\obj\Debug\netcoreapp2.2\OperacaoCaixa.Core.pdb
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Core\obj\Debug\netcoreapp2.2\OperacaoCaixa.Core.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Tests.Integration\obj\Release\netcoreapp2.1\OperacaoCaixa.Tests.Integration.csprojAssemblyReference.cache
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Tests.Integration\obj\Release\netcoreapp2.1\OperacaoCaixa.Tests.Integration.csproj.CoreCompileInputs.cache
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Tests.Integration\obj\Release\netcoreapp2.1\OperacaoCaixa.Tests.Integration.AssemblyInfoInputs.cache
+D:\Everton\Treinamentos\GraphQL\OperacaoCaixaPrj\src\backend\OperacaoCaixa.Tests.Integration\obj\Release\netcoreapp2.1\OperacaoCaixa.Tests.Integration.AssemblyInfo.cs

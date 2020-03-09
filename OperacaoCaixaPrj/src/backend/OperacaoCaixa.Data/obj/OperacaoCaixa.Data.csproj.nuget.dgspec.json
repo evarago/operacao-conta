@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Everton\\Treinamentos\\GraphQL\\OperacaoCaixaPrj\\src\\backend\\OperacaoCaixa.Data\\OperacaoCaixa.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\Everton\\Treinamentos\\GraphQL\\OperacaoCaixaPrj\\src\\backend\\OperacaoCaixa.Core\\OperacaoCaixa.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Everton\\Treinamentos\\GraphQL\\OperacaoCaixaPrj\\src\\backend\\OperacaoCaixa.Core\\OperacaoCaixa.Core.csproj",
+        "projectName": "OperacaoCaixa.Core",
+        "projectPath": "D:\\Everton\\Treinamentos\\GraphQL\\OperacaoCaixaPrj\\src\\backend\\OperacaoCaixa.Core\\OperacaoCaixa.Core.csproj",
+        "packagesPath": "C:\\Users\\everton.varago\\.nuget\\packages\\",
+        "outputPath": "D:\\Everton\\Treinamentos\\GraphQL\\OperacaoCaixaPrj\\src\\backend\\OperacaoCaixa.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\everton.varago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gringottsbank.pkgs.visualstudio.com/_packaging/Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Everton\\Treinamentos\\GraphQL\\OperacaoCaixaPrj\\src\\backend\\OperacaoCaixa.Data\\OperacaoCaixa.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Everton\\Treinamentos\\GraphQL\\OperacaoCaixaPrj\\src\\backend\\OperacaoCaixa.Data\\OperacaoCaixa.Data.csproj",
+        "projectName": "OperacaoCaixa.Data",
+        "projectPath": "D:\\Everton\\Treinamentos\\GraphQL\\OperacaoCaixaPrj\\src\\backend\\OperacaoCaixa.Data\\OperacaoCaixa.Data.csproj",
+        "packagesPath": "C:\\Users\\everton.varago\\.nuget\\packages\\",
+        "outputPath": "D:\\Everton\\Treinamentos\\GraphQL\\OperacaoCaixaPrj\\src\\backend\\OperacaoCaixa.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\everton.varago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gringottsbank.pkgs.visualstudio.com/_packaging/Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Everton\\Treinamentos\\GraphQL\\OperacaoCaixaPrj\\src\\backend\\OperacaoCaixa.Core\\OperacaoCaixa.Core.csproj": {
+                "projectPath": "D:\\Everton\\Treinamentos\\GraphQL\\OperacaoCaixaPrj\\src\\backend\\OperacaoCaixa.Core\\OperacaoCaixa.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
